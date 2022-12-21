@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="by.starchavy.clevertec.shop.check.CheckTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-21T14:10:52" hostname="WIN-0J4A2NVMJGU" time="0.035">
+  <properties/>
+  <testcase name="addProducts()" classname="by.starchavy.clevertec.shop.check.CheckTest" time="0.022"/>
+  <testcase name="printCheck()" classname="by.starchavy.clevertec.shop.check.CheckTest" time="0.009"/>
+  <testcase name="addPurchase()" classname="by.starchavy.clevertec.shop.check.CheckTest" time="0.001"/>
+  <testcase name="applyDiscountProduct()" classname="by.starchavy.clevertec.shop.check.CheckTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

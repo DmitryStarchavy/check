@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="by.starchavy.clevertec.shop.parse.ParseArgTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-21T14:10:52" hostname="WIN-0J4A2NVMJGU" time="0.011">
+  <properties/>
+  <testcase name="parseFile()" classname="by.starchavy.clevertec.shop.parse.ParseArgTest" time="0.009"/>
+  <testcase name="parseArg()" classname="by.starchavy.clevertec.shop.parse.ParseArgTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

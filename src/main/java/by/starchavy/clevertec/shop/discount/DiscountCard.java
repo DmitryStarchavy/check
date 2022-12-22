@@ -2,11 +2,11 @@ package by.starchavy.clevertec.shop.discount;
 
 public class DiscountCard {
     private int id;
-    private int Discount;
+    private int discount;
 
     public DiscountCard(int id, int discount) {
         this.id = id;
-        this.Discount = discount;
+        this.discount = discount;
     }
 
     public int getId() {
@@ -14,7 +14,7 @@ public class DiscountCard {
     }
 
     public int getDiscount() {
-        return Discount;
+        return discount;
     }
 
 }
